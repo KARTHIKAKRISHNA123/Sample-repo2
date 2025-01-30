@@ -1,0 +1,25 @@
+Hi I am Karthika Krishna
+
+.git folder is created as a default folder when we clone git repository.It is created even when we clone an empty repository. 
+We should not delete it as it acts a direct link between our local machine repository and cloud repository in git hub
+
+U -> untracked
+
+git add -> working directory to staging area
+(It is like keeping a letter inside envelope)
+
+git commit -> staging area to repository
+(It is like writing aclear message about the letter on top of the letter to let others know what we are doing)
+
+git push -> posting the staged letter(code) to the repository
+
+Commit hash -> An unique number that is generated from the Date, Time, From address, To Address we written on the envelope
+
+git reset -> To unstage the staged files
+
+Fix:
+Feat:
+Refactor:
+Docs:
+Chore:
+!Fix: Breakthrough change
