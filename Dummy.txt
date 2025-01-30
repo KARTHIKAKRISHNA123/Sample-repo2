@@ -31,6 +31,6 @@ git push origin remote
 Origin -> Initial cloned url
 remote -> The branch in which we are trying to push our code which can be main or any other sub branches assigned to us
 
-git status
+git status -> It shows the tracked and untracked files
 
 We are trying to add index.html but not style.css
