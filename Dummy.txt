@@ -36,3 +36,14 @@ git status -> It shows the tracked and untracked files
 We are trying to add index.html but not style.css
 
 When we git status after git add it will show the next step of commiting that file
+
+git status -> which file got modified
+
+git diff -> what exactly got modified in that file
+
+M -> modified
+
+U -> untracked or unmodified
+
+git add . -> Add all files in the current folder
+
