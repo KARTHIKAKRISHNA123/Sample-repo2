@@ -1,4 +1,4 @@
-Hi I am Karthika Krishna
+Hi I am Karthika Krishna M
 
 .git folder is created as a default folder when we clone git repository.It is created even when we clone an empty repository. 
 We should not delete it as it acts a direct link between our local machine repository and cloud repository in git hub
