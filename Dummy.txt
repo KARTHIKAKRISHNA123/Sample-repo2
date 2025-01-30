@@ -23,3 +23,5 @@ Refactor:
 Docs:
 Chore:
 !Fix: Breakthrough change
+
+After staging the untracked becomes tracked
