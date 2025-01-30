@@ -34,3 +34,5 @@ remote -> The branch in which we are trying to push our code which can be main o
 git status -> It shows the tracked and untracked files
 
 We are trying to add index.html but not style.css
+
+When we git status after git add it will show the next step of commiting that file
