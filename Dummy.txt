@@ -25,3 +25,5 @@ Chore:
 !Fix: Breakthrough change
 
 After staging the untracked becomes tracked
+
+git push origin remote
