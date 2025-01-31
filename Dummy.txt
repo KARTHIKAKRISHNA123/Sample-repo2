@@ -56,3 +56,11 @@ git checkout main -> to move to main branch
 git checkout frontend -> to move to frontend
 
 Branch name should not contain spaces
+
+Even if we are present in backend branch and push our code to main branch we can do like this
+
+git push origin main
+
+Same thing applies for pull as well 
+
+git pull origin main
