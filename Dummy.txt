@@ -54,3 +54,5 @@ git checkout -b "frontend" -> for new branch
 git checkout main -> to move to main branch
 
 git checkout frontend -> to move to frontend
+
+Branch name should not contain spaces
