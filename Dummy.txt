@@ -47,3 +47,12 @@ U -> untracked or unmodified
 
 git add . -> Add all files in the current folder
 
+git branch -> to check at which branch we are present
+
+git checkout -b "frontend" -> for new branch
+
+git checkout main -> to move to main branch
+
+git checkout frontend -> to move to frontend
+
+Branch name should not contain spaces
